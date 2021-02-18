@@ -7,7 +7,7 @@ After the first partition step has been completed, the
 contents of the array is in the following order: 3 9 1 14 17 24 22 20. 
 Which of the following statements is correct about the partition step? 
 Explain your answer.
-
+Answer: The pivot could have been either 14 or 17
 
 The pivot could have been 17, but could not have been 14
 The pivot could have been either 14 or 17
@@ -20,5 +20,8 @@ show the resulting list after the second partitioning according to the quicksort
 algorithm.
 
 When using the last item on the list as a pivot
+Answer: 9, 3, 10, 12, 19, 13, 17, 16, 14, 15
+
 When using the first item on the list as a pivot
+Answer: 10, 12, 13, 9, 3, 14, 19, 16, 15, 17
 */
